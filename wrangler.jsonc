@@ -1,0 +1,7 @@
+{
+  "name": "ganjoor-poetry-full",
+  "main": "ganjoor-official-worker.mjs",
+  "compatibility_date": "2026-10-09",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true
+}
